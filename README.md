@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Egor Onishchuk</h1>
-<h3 align="center">Python (both backend and Telegram) developer from Russia</h3>
+<h3 align="center">Python (both backend and Telegram) developer</h3>
 
 - 🌱 I’m currently learning **FastAPI advanced usage (microservice architecture)**.
 
 - 💬 Ask me why **Python should have native support in browsers**.
+  
+- 🐍 See my **[Boilerplate template](https://github.com/EgorOnishchuk/fastapi-project-template)**
 
 - ⚡ Fun fact: **I've invented Zen of Python 20th principle — «Enough is better than too much»**.
-
----
 
 - 📫 How to send me a letter: **egor_onishchuk@mail.ru**.
 
