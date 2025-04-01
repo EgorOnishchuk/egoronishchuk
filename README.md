@@ -5,7 +5,7 @@
 
 - 💬 Ask me why **Python should have native support in browsers**.
   
-- 🐍 See my **[Boilerplate template](https://github.com/EgorOnishchuk/fastapi-project-template)**
+- 🐍 See my **[boilerplate template](https://github.com/EgorOnishchuk/fastapi-project-template)**.
 
 - ⚡ Fun fact: **I've invented Zen of Python 20th principle — «Enough is better than too much»**.
 
